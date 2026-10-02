@@ -1,0 +1,8 @@
+target/
+eclipse-bin/
+.flattened-pom.xml
+viewer/vs/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

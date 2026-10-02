@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0"
+    immediate="true" name="org.idempiere.myappx.plugin.sourcebrowser.form.SourceBrowserFormRegistrar">
+    <implementation class="org.idempiere.myappx.plugin.sourcebrowser.form.SourceBrowserFormRegistrar"/>
+    <reference bind="setMappedFormFactory" cardinality="1..1"
+        interface="org.adempiere.webui.factory.IMappedFormFactory" name="mappedFormFactory"
+        policy="static" unbind="unsetMappedFormFactory"/>
+</scr:component>

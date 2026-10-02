@@ -1,0 +1,87 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>idempiere.extensions</groupId>
+		<artifactId>idempiere.extension.parent</artifactId>
+		<version>${revision}</version>
+		<relativePath>../idempiere-extension-parent/pom.xml</relativePath>
+	</parent>
+
+	<artifactId>org.idempiere.myappx.plugin.sourcebrowser</artifactId>
+	<name>MyAppx Plugin : Source Browser</name>
+	<packaging>eclipse-plugin</packaging>
+
+	<properties>
+		<monaco.editor.version>0.52.2</monaco.editor.version>
+	</properties>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-dependency-plugin</artifactId>
+				<executions>
+					<execution>
+						<id>unpack-monaco</id>
+						<phase>generate-resources</phase>
+						<goals>
+							<goal>unpack</goal>
+						</goals>
+						<configuration>
+							<artifactItems>
+								<artifactItem>
+									<groupId>org.webjars.npm</groupId>
+									<artifactId>monaco-editor</artifactId>
+									<version>${monaco.editor.version}</version>
+									<outputDirectory>${project.build.directory}/monaco-unpack</outputDirectory>
+									<includes>**/min/vs/**</includes>
+								</artifactItem>
+							</artifactItems>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-antrun-plugin</artifactId>
+				<executions>
+					<execution>
+						<id>copy-monaco-vs</id>
+						<phase>generate-resources</phase>
+						<goals>
+							<goal>run</goal>
+						</goals>
+						<configuration>
+							<target>
+								<mkdir dir="${project.basedir}/viewer/vs"/>
+								<copy todir="${project.basedir}/viewer/vs" overwrite="true" failonerror="false">
+									<fileset dir="${project.build.directory}/monaco-unpack">
+										<include name="**/min/vs/**"/>
+									</fileset>
+									<regexpmapper from="^(?:.*[/\\])?min[/\\]vs[/\\](.*)$" to="\1"/>
+								</copy>
+							</target>
+						</configuration>
+					</execution>
+					<execution>
+						<id>reject-eclipse-stub-classes</id>
+						<phase>process-classes</phase>
+						<goals>
+							<goal>run</goal>
+						</goals>
+						<configuration>
+							<target>
+								<exec executable="python" failonerror="true">
+									<arg value="-c"/>
+									<arg value="from pathlib import Path; p=Path(r'${project.build.outputDirectory}')/'org'/'idempiere'/'myappx'/'plugin'/'sourcebrowser'/'web'/'SourceBrowseServlet.class'; d=p.read_bytes(); assert b'Unresolved compilation' not in d, 'Eclipse stub classes in target/classes — mvn clean package with iDempiere P2, do not jar JDT output'; assert b'javax/servlet/http/HttpServlet' in d, 'SourceBrowseServlet does not extend HttpServlet'"/>
+								</exec>
+							</target>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+		</plugins>
+	</build>
+</project>

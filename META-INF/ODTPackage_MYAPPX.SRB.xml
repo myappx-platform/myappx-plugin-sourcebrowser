@@ -1,0 +1,1330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ODT_IDEMPIERE>
+  <ODTPackage ID="1000002" IsImportedODT="Y" ObjectType="ODT_APP" UUID="01a0a52d-cc80-7659-a7c0-9b7112cda40e">
+    <Name xml:space="preserve"><![CDATA[MyAppx Source Browser]]></Name>
+    <Description xml:space="preserve"/>
+    <ODTVersion ID="1000002" UUID="01a0a52d-cc85-7268-93f5-c5df429ae0c9" VersionNo="2" Version_Status="Draft">
+      <Name xml:space="preserve"><![CDATA[MyAppx Source Browser-V2]]></Name>
+      <Description xml:space="preserve"/>
+      <SystemVersion xml:space="preserve"/>
+      <ODTObjectData AD_Table_ID="882" ID="1000966" ObjectData_Action="N/A" ObjectData_Status="Unapplied" ObjectData_Type="AD Object" ObjectData_UUID="01a0a058-dcea-7da2-b4f5-6eff89da8aa0" Record_ID="1000004" SeqNo="10" UUID="01a0c920-94d2-7829-8ed2-1a890f818e36">
+        <Name xml:space="preserve"><![CDATA[AD_EntityType-1000004]]></Name>
+        <SQL_Apply xml:space="preserve"/>
+        <SQL_Unapply xml:space="preserve"/>
+        <MessgeLog xml:space="preserve"/>
+        <ODTObjectDataLine AD_Column_ID="15592" ID="1028491" UUID="01a0c920-94d4-7186-a4ad-6b2facbe25eb">
+          <NewValue xml:space="preserve"><![CDATA[MYAPPX.SRB]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15593" ID="1028492" UUID="01a0c920-94d7-7ebd-ad6e-63ac150a4c65">
+          <NewValue xml:space="preserve"><![CDATA[System]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>11237b53-9592-4af1-b3c5-afd216514b5d</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15594" ID="1028493" UUID="01a0c920-94da-7ab5-bf67-66d652c4347b">
+          <NewValue xml:space="preserve"><![CDATA[*]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>3ef41ffc-8ea9-454a-afa2-22949f402ff5</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15595" ID="1028494" UUID="01a0c920-94dc-7c8d-acd2-c4eff4b5e8c3">
+          <NewValue xml:space="preserve"><![CDATA[1000004]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15596" ID="1028495" UUID="01a0c920-94dd-70f1-8c78-4e7aedfe6119">
+          <NewValue xml:space="preserve"><![CDATA[Y]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15597" ID="1028496" UUID="01a0c920-94df-7a8d-a1bc-0d4f973c7dde">
+          <NewValue xml:space="preserve"><![CDATA[2026-09-21 21:48:23]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15598" ID="1028497" UUID="01a0c920-94e4-7d3d-99ba-65820ab4e20c">
+          <NewValue xml:space="preserve"><![CDATA[SuperUser]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>100</NewID>
+          <OldID>0</OldID>
+          <NewUUID>986cb4dc-7161-4d77-a7c7-3832d24b19de</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15599" ID="1028498" UUID="01a0c920-94e6-7d08-985e-f2103ea32342">
+          <NewValue xml:space="preserve"><![CDATA[2026-09-21 21:48:23]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15600" ID="1028499" UUID="01a0c920-94ea-7825-824f-7dfdd413b9c6">
+          <NewValue xml:space="preserve"><![CDATA[System]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>10</NewID>
+          <OldID>0</OldID>
+          <NewUUID>98acf599-bd19-4439-a8b6-958ac247d680</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15601" ID="1028500" UUID="01a0c920-94ec-7b03-8b11-75fce8d9871b">
+          <NewValue xml:space="preserve"><![CDATA[MyAppx Source Browser]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15602" ID="1028501" UUID="01a0c920-94ee-7a8c-a36b-8ee2e0653a0f">
+          <NewValue xml:space="preserve"/>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15603" ID="1028502" UUID="01a0c920-94f0-7ef3-9d8f-3b3cd8802fd8">
+          <NewValue xml:space="preserve"/>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15604" ID="1028503" UUID="01a0c920-94f2-73e2-be40-f21e16cf549b">
+          <NewValue xml:space="preserve"/>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15605" ID="1028504" UUID="01a0c920-94f3-7a74-bcf7-32fe522d0d4a">
+          <NewValue xml:space="preserve"/>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15606" ID="1028505" UUID="01a0c920-94f5-7c0b-bc9d-9c81be30f7ce">
+          <NewValue xml:space="preserve"/>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15607" ID="1028506" UUID="01a0c920-94f6-7af6-a226-34b97bf07d4e">
+          <NewValue xml:space="preserve"><![CDATA[N]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="60397" ID="1028507" UUID="01a0c920-94f8-7f30-840f-eb78c5493c96">
+          <NewValue xml:space="preserve"><![CDATA[01a0a058-dcea-7da2-b4f5-6eff89da8aa0]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+      </ODTObjectData>
+      <ODTObjectData AD_Table_ID="50009" ID="1000967" ObjectData_Action="N/A" ObjectData_Status="Unapplied" ObjectData_Type="AD Object" ObjectData_UUID="a1b2c3d4-e5f6-7890-abcd-999904010102" Record_ID="1000022" SeqNo="20" UUID="01a0c920-94fb-7d85-a927-6b39391a941c">
+        <Name xml:space="preserve"><![CDATA[AD_SysConfig-1000022]]></Name>
+        <SQL_Apply xml:space="preserve"/>
+        <SQL_Unapply xml:space="preserve"/>
+        <MessgeLog xml:space="preserve"/>
+        <ODTObjectDataLine AD_Column_ID="50187" ID="1028508" UUID="01a0c920-94fd-76c4-a249-e1e40d8913f9">
+          <NewValue xml:space="preserve"><![CDATA[1000022]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50188" ID="1028509" UUID="01a0c920-9500-713d-9394-f096ac4f929d">
+          <NewValue xml:space="preserve"><![CDATA[System]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>11237b53-9592-4af1-b3c5-afd216514b5d</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50189" ID="1028510" UUID="01a0c920-9503-7e2a-9ec6-61d904358b96">
+          <NewValue xml:space="preserve"><![CDATA[*]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>3ef41ffc-8ea9-454a-afa2-22949f402ff5</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50190" ID="1028511" UUID="01a0c920-9505-7b53-b34a-232af4616362">
+          <NewValue xml:space="preserve"><![CDATA[2026-09-21 21:48:23]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50191" ID="1028512" UUID="01a0c920-9506-7006-a579-c0cec251b5d1">
+          <NewValue xml:space="preserve"><![CDATA[2026-09-21 22:13:46]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50192" ID="1028513" UUID="01a0c920-9509-78b1-9e4b-6cbfbef5293c">
+          <NewValue xml:space="preserve"><![CDATA[SuperUser]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>100</NewID>
+          <OldID>0</OldID>
+          <NewUUID>986cb4dc-7161-4d77-a7c7-3832d24b19de</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50193" ID="1028514" UUID="01a0c920-950d-7271-876a-ad0a8d29226d">
+          <NewValue xml:space="preserve"><![CDATA[System]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>10</NewID>
+          <OldID>0</OldID>
+          <NewUUID>98acf599-bd19-4439-a8b6-958ac247d680</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50194" ID="1028515" UUID="01a0c920-950e-71be-bf60-3ab8d7885226">
+          <NewValue xml:space="preserve"><![CDATA[Y]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50195" ID="1028516" UUID="01a0c920-9510-79ea-9597-d6cf5daf0bf6">
+          <NewValue xml:space="preserve"><![CDATA[MYAPPX_SOURCE_ROOTS]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50196" ID="1028517" UUID="01a0c920-9511-7cd3-b03a-26d2ffe4c5eb">
+          <NewValue xml:space="preserve"/>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50197" ID="1028518" UUID="01a0c920-9513-7f64-be8a-9dda56bee62f">
+          <NewValue xml:space="preserve"><![CDATA[Override pack root (;). Empty = {IDEMPIERE_HOME}/data/workspace/sources. Portable: leave empty; env.bat sets IDEMPIERE_MYAPPX_SOURCE_ROOTS={portable}/workspace/sources (env wins).]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="53270" ID="1028519" UUID="01a0c920-9515-74a7-88d4-9872304bd59e">
+          <NewValue xml:space="preserve"><![CDATA[MYAPPX.SRB]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="53271" ID="1028520" UUID="01a0c920-9517-75a8-8f68-2f86021f0a7f">
+          <NewValue xml:space="preserve"><![CDATA[S]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="60502" ID="1028521" UUID="01a0c920-9518-75e9-b387-b2b8d6ce40ab">
+          <NewValue xml:space="preserve"><![CDATA[a1b2c3d4-e5f6-7890-abcd-999904010102]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+      </ODTObjectData>
+      <ODTObjectData AD_Table_ID="50009" ID="1000968" ObjectData_Action="N/A" ObjectData_Status="Unapplied" ObjectData_Type="AD Object" ObjectData_UUID="a1b2c3d4-e5f6-7890-abcd-999904010101" Record_ID="1000021" SeqNo="30" UUID="01a0c920-951a-778b-b991-423b41bd7526">
+        <Name xml:space="preserve"><![CDATA[AD_SysConfig-1000021]]></Name>
+        <SQL_Apply xml:space="preserve"/>
+        <SQL_Unapply xml:space="preserve"/>
+        <MessgeLog xml:space="preserve"/>
+        <ODTObjectDataLine AD_Column_ID="50187" ID="1028522" UUID="01a0c920-951c-7362-b51c-a51f2376223c">
+          <NewValue xml:space="preserve"><![CDATA[1000021]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50188" ID="1028523" UUID="01a0c920-9520-7dda-a3e0-570ae29dc13b">
+          <NewValue xml:space="preserve"><![CDATA[System]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>11237b53-9592-4af1-b3c5-afd216514b5d</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50189" ID="1028524" UUID="01a0c920-9522-7fdc-81a7-704784b03b65">
+          <NewValue xml:space="preserve"><![CDATA[*]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>3ef41ffc-8ea9-454a-afa2-22949f402ff5</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50190" ID="1028525" UUID="01a0c920-9524-7860-b0f3-ed354d6fec0d">
+          <NewValue xml:space="preserve"><![CDATA[2026-09-21 21:48:23]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50191" ID="1028526" UUID="01a0c920-9526-734d-b7e6-29a358a8aaf4">
+          <NewValue xml:space="preserve"><![CDATA[2026-09-21 22:13:46]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50192" ID="1028527" UUID="01a0c920-952a-785e-bf55-a29e885d38bf">
+          <NewValue xml:space="preserve"><![CDATA[SuperUser]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>100</NewID>
+          <OldID>0</OldID>
+          <NewUUID>986cb4dc-7161-4d77-a7c7-3832d24b19de</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50193" ID="1028528" UUID="01a0c920-9531-7686-9b87-1618a88eef01">
+          <NewValue xml:space="preserve"><![CDATA[System]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>10</NewID>
+          <OldID>0</OldID>
+          <NewUUID>98acf599-bd19-4439-a8b6-958ac247d680</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50194" ID="1028529" UUID="01a0c920-9532-7eb1-9577-892dc518c862">
+          <NewValue xml:space="preserve"><![CDATA[Y]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50195" ID="1028530" UUID="01a0c920-9534-73a7-83e6-0f64ffb29240">
+          <NewValue xml:space="preserve"><![CDATA[MYAPPX_SOURCE_ENABLED]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50196" ID="1028531" UUID="01a0c920-9536-7495-8c6e-99f0a5e88be1">
+          <NewValue xml:space="preserve"><![CDATA[Y]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50197" ID="1028532" UUID="01a0c920-9538-750c-8914-ab576135b58e">
+          <NewValue xml:space="preserve"><![CDATA[Y = enable Source Browser. Empty MYAPPX_SOURCE_ROOTS = {IDEMPIERE_HOME}/data/workspace/sources (portable: IDEMPIERE_MYAPPX_SOURCE_ROOTS). Then Reset Cache.]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="53270" ID="1028533" UUID="01a0c920-9539-7726-a592-a33ef1ed245d">
+          <NewValue xml:space="preserve"><![CDATA[MYAPPX.SRB]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="53271" ID="1028534" UUID="01a0c920-953b-79fa-bde4-a814f10b4545">
+          <NewValue xml:space="preserve"><![CDATA[S]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="60502" ID="1028535" UUID="01a0c920-953d-71e4-a256-4729e58b65b5">
+          <NewValue xml:space="preserve"><![CDATA[a1b2c3d4-e5f6-7890-abcd-999904010101]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+      </ODTObjectData>
+      <ODTObjectData AD_Table_ID="376" ID="1000969" ObjectData_Action="N/A" ObjectData_Status="Unapplied" ObjectData_Type="AD Object" ObjectData_UUID="a1b2c3d4-e5f6-7890-abcd-999904010001" Record_ID="1000000" SeqNo="40" UUID="01a0c920-9542-7e66-9f57-c5d21807c3a4">
+        <Name xml:space="preserve"><![CDATA[AD_Form-1000000]]></Name>
+        <SQL_Apply xml:space="preserve"/>
+        <SQL_Unapply xml:space="preserve"/>
+        <MessgeLog xml:space="preserve"/>
+        <ODTObjectDataLine AD_Column_ID="4596" ID="1028536" UUID="01a0c920-9544-73ab-b27f-355ea2cf26ea">
+          <NewValue xml:space="preserve"><![CDATA[1000000]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4597" ID="1028537" UUID="01a0c920-9548-7872-a7f9-51c37443e3d5">
+          <NewValue xml:space="preserve"><![CDATA[System]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>11237b53-9592-4af1-b3c5-afd216514b5d</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4598" ID="1028538" UUID="01a0c920-954a-7a25-9892-3261fb111140">
+          <NewValue xml:space="preserve"><![CDATA[*]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>3ef41ffc-8ea9-454a-afa2-22949f402ff5</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4599" ID="1028539" UUID="01a0c920-954c-78e1-9382-8504b1af396f">
+          <NewValue xml:space="preserve"><![CDATA[Y]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4600" ID="1028540" UUID="01a0c920-954d-7937-b524-38de9575bcee">
+          <NewValue xml:space="preserve"><![CDATA[2026-09-21 21:48:24]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4601" ID="1028541" UUID="01a0c920-9552-7777-a933-7d909d0fb290">
+          <NewValue xml:space="preserve"><![CDATA[SuperUser]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>100</NewID>
+          <OldID>0</OldID>
+          <NewUUID>986cb4dc-7161-4d77-a7c7-3832d24b19de</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4602" ID="1028542" UUID="01a0c920-9554-7305-986a-40038a817d24">
+          <NewValue xml:space="preserve"><![CDATA[2026-09-21 22:13:46]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4603" ID="1028543" UUID="01a0c920-9559-7db5-b188-172597eddbef">
+          <NewValue xml:space="preserve"><![CDATA[System]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>10</NewID>
+          <OldID>0</OldID>
+          <NewUUID>98acf599-bd19-4439-a8b6-958ac247d680</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4604" ID="1028544" UUID="01a0c920-955a-7c0d-9060-eedcdfaf85f1">
+          <NewValue xml:space="preserve"><![CDATA[Source Browser]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4605" ID="1028545" UUID="01a0c920-955c-7da4-8d17-daf588e4612c">
+          <NewValue xml:space="preserve"><![CDATA[Read-only assembled iDempiere source pack (not git). Empty MYAPPX_SOURCE_ROOTS = {IDEMPIERE_HOME}/data/workspace/sources (portable: workspace/sources via IDEMPIERE_MYAPPX_SOURCE_ROOTS).]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4606" ID="1028546" UUID="01a0c920-955e-7cd9-8035-b79956c927e8">
+          <NewValue xml:space="preserve"><![CDATA[Leave MYAPPX_SOURCE_ROOTS empty. Portable env.bat sets IDEMPIERE_MYAPPX_SOURCE_ROOTS. Same pack as Copilot AI_SOURCE_ROOTS / IDEMPIERE_AI_SOURCE_ROOTS.]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4607" ID="1028547" UUID="01a0c920-955f-7614-9972-7b258b040df5">
+          <NewValue xml:space="preserve"><![CDATA[org.idempiere.myappx.plugin.sourcebrowser.form.SourceBrowserForm]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="5791" ID="1028548" UUID="01a0c920-9561-7157-b7eb-9f0e3086cad7">
+          <NewValue xml:space="preserve"><![CDATA[6]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="7708" ID="1028549" UUID="01a0c920-9563-7e41-a11a-47640dd31f46">
+          <NewValue xml:space="preserve"><![CDATA[MYAPPX.SRB]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="12738" ID="1028550" UUID="01a0c920-9565-7730-91d4-35bc85937282">
+          <NewValue xml:space="preserve"><![CDATA[N]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="13022" ID="1028551" UUID="01a0c920-9567-7d1f-bb2d-99304596653a">
+          <NewValue xml:space="preserve"/>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="60414" ID="1028552" UUID="01a0c920-9568-7d82-8b44-25143e40b599">
+          <NewValue xml:space="preserve"><![CDATA[a1b2c3d4-e5f6-7890-abcd-999904010001]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="208590" ID="1028553" UUID="01a0c920-956a-7d4e-8d7a-43b40d38743b">
+          <NewValue xml:space="preserve"/>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="215794" ID="1028554" UUID="01a0c920-956c-70e0-9e9c-250f22ece294">
+          <NewValue xml:space="preserve"/>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+      </ODTObjectData>
+      <ODTObjectData AD_Table_ID="377" ID="1000970" ObjectData_Action="N/A" ObjectData_Status="Unapplied" ObjectData_Type="AD Object" ObjectData_UUID="a1b2c3d4-e5f6-7890-abcd-999904010011" Record_ID="1000000" SeqNo="50" UUID="01a0c920-956e-78eb-914f-448e27829f2b">
+        <Name xml:space="preserve"><![CDATA[AD_Form_Trl-1000000]]></Name>
+        <SQL_Apply xml:space="preserve"/>
+        <SQL_Unapply xml:space="preserve"/>
+        <MessgeLog xml:space="preserve"/>
+        <ODTObjectDataLine AD_Column_ID="4608" ID="1028555" UUID="01a0c920-9572-7b9c-9310-abfc63ba122d">
+          <NewValue xml:space="preserve"><![CDATA[Source Browser]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>1000000</NewID>
+          <OldID>0</OldID>
+          <NewUUID>a1b2c3d4-e5f6-7890-abcd-999904010001</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4609" ID="1028556" UUID="01a0c920-9574-7b84-bf9b-d5b357ce8403">
+          <NewValue xml:space="preserve"><![CDATA[zh_CN]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4610" ID="1028557" UUID="01a0c920-9577-725c-ba70-128da0398a35">
+          <NewValue xml:space="preserve"><![CDATA[System]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>11237b53-9592-4af1-b3c5-afd216514b5d</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4611" ID="1028558" UUID="01a0c920-957a-75da-a665-099ba6d10fd1">
+          <NewValue xml:space="preserve"><![CDATA[*]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>3ef41ffc-8ea9-454a-afa2-22949f402ff5</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4612" ID="1028559" UUID="01a0c920-957c-7c81-8151-1658764104cc">
+          <NewValue xml:space="preserve"><![CDATA[Y]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4613" ID="1028560" UUID="01a0c920-957d-7ea7-ae01-a6b8d1c70cc0">
+          <NewValue xml:space="preserve"><![CDATA[2026-09-21 21:48:24]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4614" ID="1028561" UUID="01a0c920-9582-7c64-849f-dd46e42e72e6">
+          <NewValue xml:space="preserve"><![CDATA[SuperUser]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>100</NewID>
+          <OldID>0</OldID>
+          <NewUUID>986cb4dc-7161-4d77-a7c7-3832d24b19de</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4615" ID="1028562" UUID="01a0c920-9584-7d64-8423-70319969765a">
+          <NewValue xml:space="preserve"><![CDATA[2026-09-21 22:13:46]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4616" ID="1028563" UUID="01a0c920-9588-7500-bf4b-b65d61609e0d">
+          <NewValue xml:space="preserve"><![CDATA[System]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>10</NewID>
+          <OldID>0</OldID>
+          <NewUUID>98acf599-bd19-4439-a8b6-958ac247d680</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4617" ID="1028564" UUID="01a0c920-958a-7a2f-ab81-6c6a5dc3fd57">
+          <NewValue xml:space="preserve"><![CDATA[源码浏览]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4618" ID="1028565" UUID="01a0c920-958d-730d-aa14-991d71610600">
+          <NewValue xml:space="preserve"><![CDATA[只读装配源码包（不是 git）。MYAPPX_SOURCE_ROOTS 为空 = {IDEMPIERE_HOME}/data/workspace/sources（便携版 workspace/sources）。]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4619" ID="1028566" UUID="01a0c920-958e-78dc-bd53-19eede28cc6f">
+          <NewValue xml:space="preserve"><![CDATA[MYAPPX_SOURCE_ROOTS 保持空。便携版 env.bat 设置 IDEMPIERE_MYAPPX_SOURCE_ROOTS。与 Copilot 同一份包。]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4620" ID="1028567" UUID="01a0c920-9590-74d9-b4cd-6742608c77aa">
+          <NewValue xml:space="preserve"><![CDATA[Y]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="60416" ID="1028568" UUID="01a0c920-9592-7845-ba97-7749b5652229">
+          <NewValue xml:space="preserve"><![CDATA[a1b2c3d4-e5f6-7890-abcd-999904010011]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+      </ODTObjectData>
+      <ODTObjectData AD_Table_ID="116" ID="1000971" ObjectData_Action="N/A" ObjectData_Status="Unapplied" ObjectData_Type="AD Object" ObjectData_UUID="a1b2c3d4-e5f6-7890-abcd-999904010002" Record_ID="1000013" SeqNo="60" UUID="01a0c920-95b8-7815-8db8-ca2db2cd0825">
+        <Name xml:space="preserve"><![CDATA[AD_Menu-1000013]]></Name>
+        <SQL_Apply xml:space="preserve"/>
+        <SQL_Unapply xml:space="preserve"/>
+        <MessgeLog xml:space="preserve"/>
+        <ODTObjectDataLine AD_Column_ID="228" ID="1028569" UUID="01a0c920-95bb-79c0-89d4-1b4a364db049">
+          <NewValue xml:space="preserve"><![CDATA[1000013]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="229" ID="1028570" UUID="01a0c920-95bd-739f-9514-349c11697126">
+          <NewValue xml:space="preserve"><![CDATA[Source Browser]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="230" ID="1028571" UUID="01a0c920-95be-7728-af6b-4884c8de254c">
+          <NewValue xml:space="preserve"><![CDATA[Read-only assembled source pack. Empty MYAPPX_SOURCE_ROOTS = {IDEMPIERE_HOME}/data/workspace/sources (portable workspace/sources).]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="232" ID="1028572" UUID="01a0c920-95c0-768f-b6f2-596efb267591">
+          <NewValue xml:space="preserve"><![CDATA[X]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="233" ID="1028573" UUID="01a0c920-95c2-7ea3-9ed4-db96a9a8a43a">
+          <NewValue xml:space="preserve"/>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="234" ID="1028574" UUID="01a0c920-95c3-7c2f-9e83-291b014401d3">
+          <NewValue xml:space="preserve"/>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="235" ID="1028575" UUID="01a0c920-95c5-700d-b9fa-dc5b50035a21">
+          <NewValue xml:space="preserve"/>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="399" ID="1028576" UUID="01a0c920-95ca-7278-9cd5-25dac439299a">
+          <NewValue xml:space="preserve"><![CDATA[System]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>11237b53-9592-4af1-b3c5-afd216514b5d</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="400" ID="1028577" UUID="01a0c920-95cd-76ff-b88e-b607a3e78f8f">
+          <NewValue xml:space="preserve"><![CDATA[*]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>3ef41ffc-8ea9-454a-afa2-22949f402ff5</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="598" ID="1028578" UUID="01a0c920-95cf-71b7-a597-816a826c7c38">
+          <NewValue xml:space="preserve"><![CDATA[Y]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="599" ID="1028579" UUID="01a0c920-95d1-7623-950f-36333fce2523">
+          <NewValue xml:space="preserve"><![CDATA[2026-09-21 21:48:24]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="600" ID="1028580" UUID="01a0c920-95d6-7d90-82dc-ec02a5d92b53">
+          <NewValue xml:space="preserve"><![CDATA[SuperUser]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>100</NewID>
+          <OldID>0</OldID>
+          <NewUUID>986cb4dc-7161-4d77-a7c7-3832d24b19de</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="601" ID="1028581" UUID="01a0c920-95d7-7181-83e2-e22a9fd39383">
+          <NewValue xml:space="preserve"><![CDATA[2026-09-21 22:13:46]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="602" ID="1028582" UUID="01a0c920-95dc-7ee4-bb54-66f18efe3d1c">
+          <NewValue xml:space="preserve"><![CDATA[System]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>10</NewID>
+          <OldID>0</OldID>
+          <NewUUID>98acf599-bd19-4439-a8b6-958ac247d680</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="1169" ID="1028583" UUID="01a0c920-95de-7ccc-816b-346780545484">
+          <NewValue xml:space="preserve"><![CDATA[N]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="3375" ID="1028584" UUID="01a0c920-95e0-70be-9211-1ae6b68834bf">
+          <NewValue xml:space="preserve"/>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4426" ID="1028585" UUID="01a0c920-95e1-737c-ae08-0f221ea3977f">
+          <NewValue xml:space="preserve"><![CDATA[N]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4621" ID="1028586" UUID="01a0c920-95e5-7fe7-97ad-2ecd9d6d9127">
+          <NewValue xml:space="preserve"><![CDATA[Source Browser]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>1000000</NewID>
+          <OldID>0</OldID>
+          <NewUUID>a1b2c3d4-e5f6-7890-abcd-999904010001</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="6651" ID="1028587" UUID="01a0c920-95e7-7c5b-aaa4-524c75a49dbb">
+          <NewValue xml:space="preserve"><![CDATA[N]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="7721" ID="1028588" UUID="01a0c920-95e8-7a71-a5d5-379e38e857e9">
+          <NewValue xml:space="preserve"><![CDATA[MYAPPX.SRB]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="59134" ID="1028589" UUID="01a0c920-95ea-7448-b43c-1b312ed20da1">
+          <NewValue xml:space="preserve"><![CDATA[Y]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="60432" ID="1028590" UUID="01a0c920-95ec-7e8d-b6f0-c4c9550679bd">
+          <NewValue xml:space="preserve"><![CDATA[a1b2c3d4-e5f6-7890-abcd-999904010002]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="208365" ID="1028591" UUID="01a0c920-95ee-7df1-9776-18f76eac54a7">
+          <NewValue xml:space="preserve"/>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="214411" ID="1028592" UUID="01a0c920-95f0-7d5c-955f-2e262caea278">
+          <NewValue xml:space="preserve"/>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+      </ODTObjectData>
+      <ODTObjectData AD_Table_ID="120" ID="1000972" ObjectData_Action="N/A" ObjectData_Status="Unapplied" ObjectData_Type="AD Object" ObjectData_UUID="a1b2c3d4-e5f6-7890-abcd-999904010012" Record_ID="1000013" SeqNo="70" UUID="01a0c920-95f2-7f70-84a8-b41f8003b2bf">
+        <Name xml:space="preserve"><![CDATA[AD_Menu_Trl-1000013]]></Name>
+        <SQL_Apply xml:space="preserve"/>
+        <SQL_Unapply xml:space="preserve"/>
+        <MessgeLog xml:space="preserve"/>
+        <ODTObjectDataLine AD_Column_ID="245" ID="1028593" UUID="01a0c920-95f6-7bd2-94ee-fe09107912c2">
+          <NewValue xml:space="preserve"><![CDATA[Source Browser]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>1000013</NewID>
+          <OldID>0</OldID>
+          <NewUUID>a1b2c3d4-e5f6-7890-abcd-999904010002</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="246" ID="1028594" UUID="01a0c920-95f8-737e-9687-290b5aa7fd5d">
+          <NewValue xml:space="preserve"><![CDATA[zh_CN]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="247" ID="1028595" UUID="01a0c920-95fa-7fb3-aa02-e11a7b3265c7">
+          <NewValue xml:space="preserve"><![CDATA[源码浏览]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="248" ID="1028596" UUID="01a0c920-95fb-7138-a615-22f7f5700739">
+          <NewValue xml:space="preserve"><![CDATA[只读装配源码包。MYAPPX_SOURCE_ROOTS 为空则用 data/workspace/sources（便携版 workspace/sources）。]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="249" ID="1028597" UUID="01a0c920-95fd-77e9-8073-c8a6ca17ab15">
+          <NewValue xml:space="preserve"><![CDATA[Y]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="636" ID="1028598" UUID="01a0c920-95ff-781e-b970-1344c1021c95">
+          <NewValue xml:space="preserve"><![CDATA[Y]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="637" ID="1028599" UUID="01a0c920-9601-7e43-8c18-f19303a77016">
+          <NewValue xml:space="preserve"><![CDATA[2026-09-21 21:48:24]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="638" ID="1028600" UUID="01a0c920-9605-7658-a1be-293cc4a2ef09">
+          <NewValue xml:space="preserve"><![CDATA[SuperUser]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>100</NewID>
+          <OldID>0</OldID>
+          <NewUUID>986cb4dc-7161-4d77-a7c7-3832d24b19de</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="639" ID="1028601" UUID="01a0c920-9607-73e7-957b-857adcfde9ad">
+          <NewValue xml:space="preserve"><![CDATA[2026-09-21 22:13:46]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="640" ID="1028602" UUID="01a0c920-960c-7911-b2eb-ab33014ca348">
+          <NewValue xml:space="preserve"><![CDATA[System]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>10</NewID>
+          <OldID>0</OldID>
+          <NewUUID>98acf599-bd19-4439-a8b6-958ac247d680</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="1194" ID="1028603" UUID="01a0c920-9610-736c-8506-f9fbd7ab0d95">
+          <NewValue xml:space="preserve"><![CDATA[System]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>11237b53-9592-4af1-b3c5-afd216514b5d</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="1195" ID="1028604" UUID="01a0c920-9613-7b6c-a9e1-a574944eba0c">
+          <NewValue xml:space="preserve"><![CDATA[*]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>3ef41ffc-8ea9-454a-afa2-22949f402ff5</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="60433" ID="1028605" UUID="01a0c920-9615-7047-8b0b-9c2d62d4b910">
+          <NewValue xml:space="preserve"><![CDATA[a1b2c3d4-e5f6-7890-abcd-999904010012]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+      </ODTObjectData>
+      <ODTObjectData AD_Table_ID="452" ID="1000973" ObjectData_Action="N/A" ObjectData_Status="Unapplied" ObjectData_Type="AD Object" ObjectData_UUID="a1b2c3d4-e5f6-7890-abcd-999904010003" Record_ID="10" SeqNo="80" UUID="01a0c920-9618-7e98-8ff2-448267973ae5">
+        <Name xml:space="preserve"><![CDATA[AD_TreeNodeMM-10]]></Name>
+        <SQL_Apply xml:space="preserve"/>
+        <SQL_Unapply xml:space="preserve"/>
+        <MessgeLog xml:space="preserve"/>
+        <ODTObjectDataLine AD_Column_ID="6149" ID="1028606" UUID="01a0c920-961a-7aeb-886c-ea5e732dd7ef">
+          <NewValue xml:space="preserve"><![CDATA[*]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>3ef41ffc-8ea9-454a-afa2-22949f402ff5</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="6150" ID="1028607" UUID="01a0c920-961c-773a-b283-8bbbc40f95d6">
+          <NewValue xml:space="preserve"><![CDATA[Y]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="6151" ID="1028608" UUID="01a0c920-961e-7314-b301-19dbaf451e32">
+          <NewValue xml:space="preserve"><![CDATA[2026-09-21 21:48:24]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="6152" ID="1028609" UUID="01a0c920-9622-7e5e-86c2-80b26c3cda2f">
+          <NewValue xml:space="preserve"><![CDATA[System]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>10</NewID>
+          <OldID>0</OldID>
+          <NewUUID>98acf599-bd19-4439-a8b6-958ac247d680</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="6153" ID="1028610" UUID="01a0c920-9624-7b2d-b86d-85fce7921e46">
+          <NewValue xml:space="preserve"><![CDATA[2026-09-22 20:38:11]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="6154" ID="1028611" UUID="01a0c920-9629-7644-b2c5-8fd113d4864b">
+          <NewValue xml:space="preserve"><![CDATA[SuperUser]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>100</NewID>
+          <OldID>0</OldID>
+          <NewUUID>986cb4dc-7161-4d77-a7c7-3832d24b19de</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="6155" ID="1028612" UUID="01a0c920-962d-7671-9e69-1d58499e6a42">
+          <NewValue xml:space="preserve"><![CDATA[System Admin]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>218</NewID>
+          <OldID>0</OldID>
+          <NewUUID>1c2b0656-a721-41a5-ad1f-44fe2b4f879e</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="6157" ID="1028613" UUID="01a0c920-962f-7944-bbc3-f05fdc68aded">
+          <NewValue xml:space="preserve"><![CDATA[8]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="6160" ID="1028614" UUID="01a0c920-9634-70ec-a3c3-a430c15f714b">
+          <NewValue xml:space="preserve"><![CDATA[Menu]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>10</NewID>
+          <OldID>0</OldID>
+          <NewUUID>f1e7d2de-0ed8-4709-941f-853902276b43</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="6161" ID="1028615" UUID="01a0c920-9638-7322-8cb7-c976452662dd">
+          <NewValue xml:space="preserve"><![CDATA[Source Browser]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>1000013</NewID>
+          <OldID>0</OldID>
+          <NewUUID>a1b2c3d4-e5f6-7890-abcd-999904010002</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="6162" ID="1028616" UUID="01a0c920-963b-7aad-927a-ba7d45f9ba38">
+          <NewValue xml:space="preserve"><![CDATA[System]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>11237b53-9592-4af1-b3c5-afd216514b5d</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="60522" ID="1028617" UUID="01a0c920-963d-730b-8d6b-2d13160f7f5d">
+          <NewValue xml:space="preserve"><![CDATA[a1b2c3d4-e5f6-7890-abcd-999904010003]]></NewValue>
+          <OldValue xml:space="preserve"/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+      </ODTObjectData>
+    </ODTVersion>
+  </ODTPackage>
+</ODT_IDEMPIERE>
